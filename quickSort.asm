@@ -129,7 +129,3 @@ END MY_PROG
 
 
 
-
-
-
-; [SOURCE]: C:\Users\Mustafa\Desktop\MikroBut.asm
